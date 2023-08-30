@@ -1,5 +1,5 @@
 # Efficient_Parallel_Programming
-### Wrote the code for each algorithm in the sequential and parallel versions, finally wrote a report comparing their speed
+Wrote the code for each algorithm in the sequential and parallel versions, finally wrote a report comparing their speed
 ## 1: Find the k largest numbers in a large array
 Insert-Sort Sequential vs Parallel in Java
 ## 2: Parallelization of Matrix Multiplication
